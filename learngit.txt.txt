@@ -1,0 +1,8 @@
+im learning git
+
+git init
+git add learninggit.txt
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/RaghaviRShetty/pythonassignment.git
+git push -u origin master
